@@ -1,3 +1,3 @@
 # hello-world
-my first repository
-I love 🎥 🎮 🐶 :
+This is my first repository
+I like 🎥 🎮 🐶
